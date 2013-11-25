@@ -1,6 +1,6 @@
 ## An API for MK news
 
-The idea of this project is, at the end, to provide a set of tools for discovering and parsing news from Macedonian sources. Currently, the news are pulled from Time.mk's "Newewst" feed and are parsed with the "Justext" library.
+The idea of this project is, at the end, to provide a set of tools for discovering and parsing news from Macedonian sources. Currently, the news are pulled from Time.mk's "Newest" feed and are parsed with the "Justext" library.
 
 ### Install
 
